@@ -178,7 +178,7 @@ namespace ChallengesWithTestsMark8
                     return true;
                 }
                 numSet.Add(num);
-                targetSet.Add(complement);
+                //targetSet.Add(complement);
             }
 
             return false;
